@@ -1,0 +1,8 @@
+bin/fallback.pl
+Changes
+lib/Acme/Sub/Fallback.pm
+Makefile.PL
+MANIFEST			This list of files
+META.yml
+README
+t/Acme-Sub-Fallback.t

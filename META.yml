@@ -1,0 +1,9 @@
+--- #YAML:1.0
+module_name: Acme-Sub-Fallback
+dist_version_from: lib/Acme/Sub/Fallback.pm
+installdirs: site
+requires:
+    Exporter: 0 
+distribution_type: module
+license: perl
+dist_abstract: Fall back to subs in stack
